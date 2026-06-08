@@ -3,6 +3,10 @@
 ![Baznevis Screenshot](Screenshot.jpg)
 
 <p align="center">
+  <strong><a href="https://radmehr2025.github.io/Baznevis/">🔗 مشاهده دموی آنلاین پروژه</a></strong>
+</p>
+
+<p align="center">
   <a href="README-en.md">🇺🇸 View English Version</a>
 </p>
 
