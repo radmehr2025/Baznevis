@@ -1,6 +1,6 @@
 # ✍️ بازنویس (ویرایشگر هوشمند متن فارسی)
 
-![Baznevis Screenshot](screenshot.png)
+![Baznevis Screenshot](screenshot.jpg)
 
 <p align="center">
   <a href="README-en.md">🇺🇸 View English Version</a>
