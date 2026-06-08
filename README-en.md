@@ -1,6 +1,6 @@
 # ✍️ Baznevis (Persian Text Rewriter)
 
-![Baznevis Screenshot](screenshot.png)
+![Baznevis Screenshot](screenshot.jpg)
 
 <p align="center">
   <a href="README.md">🇮🇷 مشاهده نسخه فارسی</a>
