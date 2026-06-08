@@ -1,8 +1,12 @@
 # ✍️ Baznevis (Persian Text Rewriter)
 
-**Baznevis** is a lightweight, smart, and interactive web-based tool designed to fix Persian typography, specifically focusing on the correct usage of the **Half-space (Zero Width Non-Joiner - ZWNJ)**.
+![Baznevis Screenshot](screenshot.png)
 
-[🇮🇷 مشاهده نسخه فارسی](README.md)
+<p align="center">
+  <a href="README.md">🇮🇷 مشاهده نسخه فارسی</a>
+</p>
+
+**Baznevis** is a lightweight, smart, and interactive web-based tool designed to fix Persian typography, specifically focusing on the correct usage of the **Half-space (Zero Width Non-Joiner - ZWNJ)**.
 
 ## 🚀 Features
 - **Smart ZWNJ Correction:** Automatically fixes prefixes (like 'می', 'نمی') and suffixes (like 'ها', 'تر', 'ترین').
@@ -13,18 +17,13 @@
 - **Fully Responsive:** Optimized for Desktop, Tablet, and Mobile devices.
 
 ## 🛠️ Tech Stack
-- HTML5
-- CSS3 (Custom Properties, Flexbox, Media Queries)
-- Vanilla JavaScript (No dependencies)
+- HTML5, CSS3, Vanilla JavaScript.
 
 ## 📖 How to Use
-1. Paste your Persian text into the "Input" area.
-2. Click on **"🔍 شروع اصلاح متن"** (Start Correction).
-3. Review the output. If a word was incorrectly joined, simply click on it to revert.
-4. Click **"📋 کپی متن نهایی"** to copy the result to your clipboard.
+Paste your text, click **"🔍 شروع اصلاح متن"**, interactively edit words if needed by clicking them, and then click **"📋 کپی متن نهایی"**.
 
 ## 🤝 Contribution
-The compound word database is constantly evolving. If you'd like to add more words or improve the logic, feel free to open a Pull Request!
+The compound word database is constantly evolving. Feel free to open a Pull Request to add more words!
 
 ## 📄 License
-This project is licensed under the MIT License.
+MIT License.
